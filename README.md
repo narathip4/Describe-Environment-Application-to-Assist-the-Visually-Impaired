@@ -1,5 +1,4 @@
-# Khon Kaen University, College of Computing, Computer Science (B.Sc.)
-# Final Project: VIA: Describes the Environment Application to Assist the Visually Impaired
+# VIA: Describes the Environment Application to Assist the Visually Impaired
 
 This repository contains a final-project prototype for assisting visually impaired users with live scene descriptions, plus the evaluation materials used to assess the system on recorded test videos.
 
@@ -16,17 +15,6 @@ This repository contains a final-project prototype for assisting visually impair
 The app is focused on mobile usage. Flutter platform folders for desktop and web exist, but the main experience depends on camera access and has been structured like a phone app.
 
 ## Repository Structure
-
-```text
-.
-├── app/
-│   └── Application-Assist-the-Visually-Impaired/
-│       └── flutter_app/
-├── data/
-│   ├── video/
-│   └── video_labeled/
-└── docs/
-```
 
 ## Flutter App
 
