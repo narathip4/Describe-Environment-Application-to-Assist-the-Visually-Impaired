@@ -1,6 +1,5 @@
 # Khon Kaen University, College of Computing, Computer Science (B.Sc.)
-# Final Project: Describes the Environment Application to Assist the Visually Impaired
-# called 'VIA'
+# Final Project: VIA: Describes the Environment Application to Assist the Visually Impaired
 
 This repository contains a final-project prototype for assisting visually impaired users with live scene descriptions, plus the evaluation materials used to assess the system on recorded test videos.
 
